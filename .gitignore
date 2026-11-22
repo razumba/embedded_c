@@ -1,0 +1,17 @@
+﻿# Compiled Object files and Binaries
+*.o
+*.d
+*.exe
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Build Output Directories
+Debug/
+Release/
+
+# Eclipse / STM32CubeIDE Local Metadata
+.settings/
+*.launch
