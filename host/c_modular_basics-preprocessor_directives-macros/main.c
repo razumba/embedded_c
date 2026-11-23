@@ -15,7 +15,7 @@ void wait_for_user_input(void);
 int main(void)
 {
     int32_t num1 = 10;
-    int32_t num2 = 25;
+    int32_t num2 = 100;
 
     // 1. Using the macro from math_utils.h
     if (num2 > MAX_ALLOWED_VALUE) {
