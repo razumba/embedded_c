@@ -6,14 +6,6 @@
  */
 
 
-/*
- * main.c
- *
- *  Created on: 22 Nov 2026
- *      Author: razue
- */
-
-
 #include <stdio.h>
 #include <stdint.h>
 #include "math_utils.h" // Include your custom header using double quotes
