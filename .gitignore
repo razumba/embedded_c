@@ -15,3 +15,5 @@ Release/
 # Eclipse / STM32CubeIDE Local Metadata
 .settings/
 *.launch
+
+.metadata/

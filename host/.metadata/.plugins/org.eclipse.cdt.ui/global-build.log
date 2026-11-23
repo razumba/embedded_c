@@ -1,7 +1,0 @@
-21:21:58 **** Rebuild of configuration Debug for project c_modular_basics-preprocessor_directives-macros ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o math_utils.o "..\\math_utils.c" 
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o c_modular_basics-preprocessor_directives-macros.exe main.o math_utils.o 
-Info: Nothing to build for c_modular_basics-preprocessor_directives-macros
-Info: Nothing to build for c_modular_basics-preprocessor_directives-macros
